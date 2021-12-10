@@ -1,0 +1,20 @@
+.navigation {
+    font-size: xx-large;
+    color:rgb(140, 182, 84);
+    font-family: "B Nazanin";
+}
+footer{
+    color :rgb(140, 182, 84)
+}
+p {
+    font-size: large;
+    color: rgb(235, 235, 247);
+    font-family: "B Nazanin";
+}
+li {
+    font-size: x-large;
+    color:rgb(235, 235, 247)
+}
+form{
+    color:grey
+}
