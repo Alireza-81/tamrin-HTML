@@ -3,8 +3,14 @@
     color:rgb(140, 182, 84);
     font-family: "B Nazanin";
 }
-footer{
-    color :rgb(140, 182, 84)
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
 }
 p {
     font-size: large;
